@@ -37,20 +37,15 @@
   <tr>
     <td>Mob Origins</td>
     <td>
-      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-bee.png">
+      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-slime.png">
+      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-strider.png">
+      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-guardian.png">
       <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-evoker.png">
+      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-wolf.png">
+      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-snow_golem.png">
+      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-witch.png">
+      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-bee.png">
       <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-fox.png">
-      <img src="">
-      <img src="">
-      <img src="">
-      <img src="">
-      <img src="">
-      <img src="">
-      <img src="">
-      <img src="">
-      <img src="">
-      <img src="">
-      <img src="">
     </td>
   </tr>
   
