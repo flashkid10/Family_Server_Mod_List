@@ -61,7 +61,7 @@
       [-] Rain - Hunger, slowness and weakness in rain<br>
       [-] Nighttime - Hunger, slowness and weakness at night when not under cover<br>
       [-] No Food - Unable to eat normal food; needs the "Flowery" power to regain hunger<br>      
-      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/sakisiil-bumblebee.png"><br>
+      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/sakisiil-raccoon_boi.png"><br>
       [+] Nocturnal - Night vision when not in water<br>
       [+] Climbing - Surfaces are climbable<br>
       [+] Slender Body - Reach blocks and entities from farther away<br>
