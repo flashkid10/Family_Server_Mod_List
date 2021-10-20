@@ -131,16 +131,65 @@
     </td>
   </tr>  
   <tr>
-    <td>quartz-elevator-1.2.1-1.16.5</td>
-    <td></td>
+    <td>Quartz Elevator</td>
+    <td>
+      You can teleport between elevators with the same (x, z) coordinates: jump to go up and crouch to go down.<br>
+      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/qe-elevator.png"><br>
+    </td>
   </tr>
   <tr>
-    <td>SimpleBackpack_Fabric_1.16.5-1.0.38</td>
-    <td></td>
+    <td>Simple Backpack</td>
+    <td>
+      Backpack
+      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/sb-backpack.png"><br>
+      Enderpack
+      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/sb-enderpack.png"><br>
+      Voidpack
+      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/sb-voidpack.png"><br>
+    </td>
   </tr>  
   <tr>
-    <td>staffofbuilding-1.2.6-1.16.5</td>
-    <td></td>
+    <td>Staff of Building</td>
+    <td>
+       Staff of Building adds in new staffs which can be used to speed up building. It is built for the 1.16 snapshots on Fabric. There is a staff for each material, as shown below:
+      <table>
+        <tr>
+          <th>Material</th>
+          <th>Radius</th>
+          <th>Durability</th>
+        </tr>
+        <tr>
+          <td>Wooden</td>
+          <td>1</td>
+          <td>100</td>
+        </tr>
+        <tr>
+          <td>Stone</td>
+          <td>2</td>
+          <td>250</td>
+        </tr>
+        <tr>
+          <td>Iron</td>
+          <td>3</td>
+          <td>500</td>
+        </tr>
+        <tr>
+          <td>Golden</td>
+          <td>4</td>
+          <td>150</td>
+        </tr>
+        <tr>
+          <td>Diamond</td>
+          <td>4</td>
+          <td>1000</td>
+        </tr>
+        <tr>
+          <td>Netherite</td>
+          <td>5</td>
+          <td>1250</td>
+        </tr>
+      </table>
+    </td>
   </tr>  
   <tr>
     <td>vanilla-hammers-3.0.3-1.16.5</td>
