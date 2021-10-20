@@ -60,8 +60,7 @@
       [-] Lifespan - 3 less hearts (6 less health)<br>
       [-] Rain - Hunger, slowness and weakness in rain<br>
       [-] Nighttime - Hunger, slowness and weakness at night when not under cover<br>
-      [-] No Food - Unable to eat normal food; needs the "Flowery" power to regain hunger<br>
-      
+      [-] No Food - Unable to eat normal food; needs the "Flowery" power to regain hunger<br>      
       <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/sakisiil-bumblebee.png"><br>
       [+] Nocturnal - Night vision when not in water<br>
       [+] Climbing - Surfaces are climbable<br>
@@ -74,7 +73,6 @@
       [-] Fast Metabolism - Get hungry faster<br>
       [-] Small Frame - 2 less hearts (4 less health)<br>
       [-] Paws - You are unable to open doors, gates and trapdoors<br>
-      
     </td>
   </tr>
   
