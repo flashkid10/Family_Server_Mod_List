@@ -140,18 +140,19 @@
   <tr>
     <td>Simple Backpack</td>
     <td>
-      Backpack
+      Backpack:<br>
       <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/sb-backpack.png"><br>
-      Enderpack
+      Enderpack:<br>
       <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/sb-enderpack.png"><br>
-      Voidpack
+      Voidpack:<br>
       <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/sb-voidpack.png"><br>
     </td>
   </tr>  
   <tr>
     <td>Staff of Building</td>
     <td>
-       Staff of Building adds in new staffs which can be used to speed up building. It is built for the 1.16 snapshots on Fabric. There is a staff for each material, as shown below:
+      Staff of Building adds in new staffs which can be used to speed up building. It is built for the 1.16 snapshots on Fabric.<br>
+      There is a staff for each material, as shown below:<br>
       <table>
         <tr>
           <th>Material</th>
@@ -192,8 +193,8 @@
     </td>
   </tr>  
   <tr>
-    <td>vanilla-hammers-3.0.3-1.16.5</td>
-    <td></td>
+    <td>Vanilla Hammers</td>
+    <td><img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/vh-hammers.png"></td>
   </tr> 
 </table>
 
