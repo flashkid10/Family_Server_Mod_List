@@ -27,7 +27,7 @@
   
   <tr>
     <td>Origins</td>
-    <td><img width="800" src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/origins.png"></td>
+    <td><img width="600" src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/origins.png"></td>
   </tr>
   <tr>
     <td>extraorigins</td>
