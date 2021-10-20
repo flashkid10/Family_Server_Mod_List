@@ -1,15 +1,32 @@
 # Family Server - Mod List
 
 <table>
-<tr>
-<td>bettersleeping</td>
-<td>This mod adds sleep voting, sleep recovery and no-sleep debuffs! Works server-side only as well!</td>
-</tr>
+  <tr>
+    <td>bettersleeping</td>
+    <td>This mod adds sleep voting, sleep recovery and no-sleep debuffs! Works server-side only as well!</td>
+  </tr>  
+  <tr>
+    <td>expandedstorage</td>
+    <td>This mod adds a few new types of chests which can be combined vertically or on both horizontal axis.</td>
+  </tr>  
 </table>
 
+<table>
+  <tr>
+    <td>extraorigins</td>
+    <td>Adds more origins to the Origins mod.</td>
+  </tr>
+</table>
 
+<table>
+  <tr>
+    <td>Pehkui</td>
+    <td>This mod allows for most entities to have their size changed, either enlarging or shrinking them.
+      -extraorigins
+    </td>
+  </tr>
+</table>
 
-expandedstorage-7.0.2+1.16.4<br/>
 extraorigins-1.16.5-12<br/>
 fabric-api-0.40.6+1.16<br/>
 Fabric-Discord-Link-0.9.4<br/>
