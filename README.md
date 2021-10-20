@@ -122,8 +122,13 @@
     <td>This mod adds fluid tanks, which can hold 4 buckets(Tier 1) or up to 1048576 buckets (Tier Max). Tanks can be combined vertically.</td>
   </tr>  
   <tr>
-    <td>linkedstorage-1.3.11-1.16</td>
-    <td></td>
+    <td>Linked Storage</td>
+    <td>
+    Ender Chest<br>
+    <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/ls-ender-chest.png"><br>
+    Ender Pouch<br>
+    <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/ls-ender-pouch.png"><br>
+    </td>
   </tr>  
   <tr>
     <td>quartz-elevator-1.2.1-1.16.5</td>
