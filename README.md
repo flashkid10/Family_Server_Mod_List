@@ -101,25 +101,25 @@
   <tr>
     <td>Expanded Storage</td>
     <td>
-Wooden Chest - Able to store 27 stacks of items.<br>
-<img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/es-wood_chest.png"><br>
-Iron Chest - Able to store 54 stacks of items. (Recipe takes either vanilla chest or cursed chest.)<br>
-<img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/es-iron_chest.png"><br>
-Gold Chest - Able to store 81 stacks of items.<br>
-<img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/es-gold_chest.png"><br>
-Diamond Chest - Able to store 108 stacks of items. (Recipe takes any glass even stained.)<br>
-<img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/es-diamond_chest.png"><br>
-Obsidian Chest - Able to store 108 stacks of items. Resistant to explosions like obsidian is.<br>
-<img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/es-obsidian_chest.png"><br>
-Pumpkin Chest - Able to store 27 stacks of items.<br>
-<img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/es-pumpkin_chest.png"><br>
-Christmas Chest - Able to store 27 stacks of items.<br>
-<img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/es-christmas_chest.png"><br>
+      Wooden Chest - Able to store 27 stacks of items.<br>
+      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/es-wood_chest.png"><br>
+      Iron Chest - Able to store 54 stacks of items. (Recipe takes either vanilla chest or cursed chest.)<br>
+      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/es-iron_chest.png"><br>
+      Gold Chest - Able to store 81 stacks of items.<br>
+      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/es-gold_chest.png"><br>
+      Diamond Chest - Able to store 108 stacks of items. (Recipe takes any glass even stained.)<br>
+      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/es-diamond_chest.png"><br>
+      Obsidian Chest - Able to store 108 stacks of items. Resistant to explosions like obsidian is.<br>
+      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/es-obsidian_chest.png"><br>
+      Pumpkin Chest - Able to store 27 stacks of items.<br>
+      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/es-pumpkin_chest.png"><br>
+      Christmas Chest - Able to store 27 stacks of items.<br>
+      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/es-christmas_chest.png"><br>
     </td>
   </tr>  
   <tr>
-    <td>LargeFluidTank-16.1.1-fabric</td>
-    <td></td>
+    <td>Large Fluid Tank</td>
+    <td>This mod adds fluid tanks, which can hold 4 buckets(Tier 1) or up to 1048576 buckets (Tier Max). Tanks can be combined vertically.</td>
   </tr>  
   <tr>
     <td>linkedstorage-1.3.11-1.16</td>
