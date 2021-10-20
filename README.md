@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td>extraorigins</td>
-    <td>Adds more origins to the Origins mod.</td>
+    <td>Adds more origins to the Origins mod. ![alt text](https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/extraorigins.png)</td>
   </tr>
 </table>
 
