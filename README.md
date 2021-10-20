@@ -1,6 +1,6 @@
 # Family Server - Mod List<br/>
-bettersleeping-0.4.0
-expandedstorage-7.0.2+1.16.4
+bettersleeping-0.4.0<br/>
+expandedstorage-7.0.2+1.16.4<br/>
 extraorigins-1.16.5-12
 fabric-api-0.40.6+1.16
 Fabric-Discord-Link-0.9.4
