@@ -31,21 +31,21 @@
   </tr>
   <tr>
     <td>extraorigins</td>
-    <td><img width="300" src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/extraorigins.png"></td>
+    <td><img width="500" src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/extraorigins.png"></td>
   </tr>
   
   <tr>
     <td>Mob Origins</td>
     <td>
-      <img width="100" src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-slime.png">
-      <img width="100" src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-strider.png">
-      <img width="100" src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-guardian.png">
-      <img width="100" src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-evoker.png">
-      <img width="100" src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-wolf.png">
-      <img width="100" src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-snow_golem.png">
-      <img width="100" src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-witch.png">
-      <img width="100" src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-bee.png">
-      <img width="100" src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-fox.png">
+      <img width="150" src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-slime.png">
+      <img width="150" src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-strider.png">
+      <img width="150" src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-guardian.png">
+      <img width="150" src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-evoker.png">
+      <img width="150" src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-wolf.png">
+      <img width="150" src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-snow_golem.png">
+      <img width="150" src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-witch.png">
+      <img width="150" src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-bee.png">
+      <img width="150" src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/mo-fox.png">
     </td>
   </tr>
   
