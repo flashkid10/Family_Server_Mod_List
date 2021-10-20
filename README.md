@@ -19,7 +19,7 @@
       <ul>
         <li><b>Instantaneous:</b> Break one log and the whole tree will fall</li>
         <li><b>Shift down:</b> Break a block and the log will slowly shift down as you cut it (good if you don't want to "cheat" too much but are lazy to go cut top log blocks)</li>
-      </ul> 
+      </ul>
     </td>
   </tr>
   <tr>
