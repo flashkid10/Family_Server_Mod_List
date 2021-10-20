@@ -52,28 +52,28 @@
   <tr>
     <td>Sakisiil Origins</td>
     <td>
-      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/sakisiil-bumblebee.png">
-      [+] Featherweight - You have slow-fall
-      [+] Flight - Primary; toggleable levitation
-      [+] Poisonous - Inflicts poison on hit
-      [+] Flowery - Gain saturation and regen when among flowers
-      [-] Lifespan - 3 less hearts (6 less health)
-      [-] Rain - Hunger, slowness and weakness in rain
-      [-] Nighttime - Hunger, slowness and weakness at night when not under cover
-      [-] No Food - Unable to eat normal food; needs the "Flowery" power to regain hunger
+      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/sakisiil-bumblebee.png"><br>
+      [+] Featherweight - You have slow-fall<br>
+      [+] Flight - Primary; toggleable levitation<br>
+      [+] Poisonous - Inflicts poison on hit<br>
+      [+] Flowery - Gain saturation and regen when among flowers<br>
+      [-] Lifespan - 3 less hearts (6 less health)<br>
+      [-] Rain - Hunger, slowness and weakness in rain<br>
+      [-] Nighttime - Hunger, slowness and weakness at night when not under cover<br>
+      [-] No Food - Unable to eat normal food; needs the "Flowery" power to regain hunger<br>
       
-      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/sakisiil-raccoon_boi.png">
-      [+] Nocturnal - Night vision when not in water
-      [+] Climbing - Surfaces are climbable
-      [+] Slender Body - Reach blocks and entities from farther away
-      [+] Immunity - Immune to hunger and poison
-      [+] Inventory - 9 extra slots (drops after death; secondary)
-      [+] Nighttime - Strength and Speed during the night
-      [-] Daytime - Weakness and slowness during the day
-      [-] Trash food - Can only eat foods that give 1 saturation + rotten flesh
-      [-] Fast Metabolism - Get hungry faster
-      [-] Small Frame - 2 less hearts (4 less health)
-      [-] Paws - You are unable to open doors, gates and trapdoors
+      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/sakisiil-raccoon_boi.png"><br>
+      [+] Nocturnal - Night vision when not in water<br>
+      [+] Climbing - Surfaces are climbable<br>
+      [+] Slender Body - Reach blocks and entities from farther away<br>
+      [+] Immunity - Immune to hunger and poison<br>
+      [+] Inventory - 9 extra slots (drops after death; secondary)<br>
+      [+] Nighttime - Strength and Speed during the night<br>
+      [-] Daytime - Weakness and slowness during the day<br>
+      [-] Trash food - Can only eat foods that give 1 saturation + rotten flesh<br>
+      [-] Fast Metabolism - Get hungry faster<br>
+      [-] Small Frame - 2 less hearts (4 less health)<br>
+      [-] Paws - You are unable to open doors, gates and trapdoors<br>
       
     </td>
   </tr>
