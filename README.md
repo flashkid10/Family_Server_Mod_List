@@ -30,7 +30,7 @@
     <td><img width="600" src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/origins.png"></td>
   </tr>
   <tr>
-    <td>extraorigins</td>
+    <td>Extra Origins</td>
     <td><img width="500" src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/extraorigins.png"></td>
   </tr>
   
@@ -52,7 +52,29 @@
   <tr>
     <td>Sakisiil Origins</td>
     <td>
-    
+      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/sakisiil-bumblebee.png">
+      [+] Featherweight - You have slow-fall
+      [+] Flight - Primary; toggleable levitation
+      [+] Poisonous - Inflicts poison on hit
+      [+] Flowery - Gain saturation and regen when among flowers
+      [-] Lifespan - 3 less hearts (6 less health)
+      [-] Rain - Hunger, slowness and weakness in rain
+      [-] Nighttime - Hunger, slowness and weakness at night when not under cover
+      [-] No Food - Unable to eat normal food; needs the "Flowery" power to regain hunger
+      
+      <img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/sakisiil-raccoon_boi.png">
+      [+] Nocturnal - Night vision when not in water
+      [+] Climbing - Surfaces are climbable
+      [+] Slender Body - Reach blocks and entities from farther away
+      [+] Immunity - Immune to hunger and poison
+      [+] Inventory - 9 extra slots (drops after death; secondary)
+      [+] Nighttime - Strength and Speed during the night
+      [-] Daytime - Weakness and slowness during the day
+      [-] Trash food - Can only eat foods that give 1 saturation + rotten flesh
+      [-] Fast Metabolism - Get hungry faster
+      [-] Small Frame - 2 less hearts (4 less health)
+      [-] Paws - You are unable to open doors, gates and trapdoors
+      
     </td>
   </tr>
   
