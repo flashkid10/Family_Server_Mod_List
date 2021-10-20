@@ -1,5 +1,5 @@
 # Family Server - Mod List
-bettersleeping-0.4.0<br/>
+bettersleeping - This mod adds sleep voting, sleep recovery and no-sleep debuffs! Works server-side only as well!<br/>
 expandedstorage-7.0.2+1.16.4<br/>
 extraorigins-1.16.5-12<br/>
 fabric-api-0.40.6+1.16<br/>
