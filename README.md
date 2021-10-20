@@ -194,7 +194,7 @@
   </tr>  
   <tr>
     <td>Vanilla Hammers</td>
-    <td><img src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/vh-hammers.png"></td>
+    <td><img width="600" src="https://github.com/flashkid10/Family_Server_Mod_List/blob/main/ref/vh-hammers.png"></td>
   </tr> 
 </table>
 
