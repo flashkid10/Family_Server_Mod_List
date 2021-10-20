@@ -1,11 +1,11 @@
 # Family Server - Mod List
 <table>
   <tr>
-    <td>fabric-api-0.40.6+1.16</td>
-    <td></td>
+    <td>Fabric API</td>
+    <td>Fabric API is the core library for the most common hooks and intercompatibility measures utilized by mods using the Fabric toolchain</td>
   </tr>  
   <tr>
-    <td>bettersleeping</td>
+    <td>BetterSleeping</td>
     <td>This mod adds sleep voting, sleep recovery and no-sleep debuffs! Works server-side only as well!</td>
   </tr>  
   <tr>
@@ -38,7 +38,13 @@
     <td>Fabric Language Scala</td>
     <td>This mod is used for other fabric mods that are written in the Scala language for the fabric mod loader.</td>
   </tr>
+  <tr>
+    <td>Lib Block Attributes</td>
+    <td>This doesn't add anything directly - instead this adds 3 base packages that mods can use to transfer items and fluids between blocks.</td>
+  </tr>
 </table>
+
+
 
 <table>
   <tr>
@@ -93,30 +99,91 @@
 
 <table>
   <tr>
-    <td>expandedstorage</td>
-    <td>This mod adds a few new types of chests which can be combined vertically or on both horizontal axis.</td>
+    <td>Expanded Storage</td>
+    <td>
+Wooden Chest - Able to store 27 stacks of items.
+Iron Chest - Able to store 54 stacks of items. (Recipe takes either vanilla chest or cursed chest.)
+Gold Chest - Able to store 81 stacks of items.
+Diamond Chest - Able to store 108 stacks of items. (Recipe takes any glass even stained.)
+Obsidian Chest - Able to store 108 stacks of items. Resistant to explosions like obsidian is.
+Pumpkin Chest - Able to store 27 stacks of items.
+Christmas Chest - Able to store 27 stacks of items.
+    </td>
   </tr>  
+  <tr>
+    <td>LargeFluidTank-16.1.1-fabric</td>
+    <td></td>
+  </tr>  
+  <tr>
+    <td>linkedstorage-1.3.11-1.16</td>
+    <td></td>
+  </tr>  
+  <tr>
+    <td>quartz-elevator-1.2.1-1.16.5</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SimpleBackpack_Fabric_1.16.5-1.0.38</td>
+    <td></td>
+  </tr>  
+  <tr>
+    <td>staffofbuilding-1.2.6-1.16.5</td>
+    <td></td>
+  </tr>  
+  <tr>
+    <td>vanilla-hammers-3.0.3-1.16.5</td>
+    <td></td>
+  </tr> 
 </table>
 
-
-
-
-fabricmod_VoxelMap-1.10.11_for_1.16.3
-inventoryprofiles-fabric-1.16.2-0.4.2
-libblockattributes-all-0.8.8
-modmenu-1.16.22
-Optifabric-Mod-1.16.5
-OptiFine_1.16.5_HD_U_G7
-
-
-
-LargeFluidTank-16.1.1-fabric
-linkedstorage-1.3.11-1.16
-
-quartz-elevator-1.2.1-1.16.5
-RoughlyEnoughItems-5.12.248
-SimpleBackpack_Fabric_1.16.5-1.0.38
-staffofbuilding-1.2.6-1.16.5
-vanilla-hammers-3.0.3-1.16.5
-warpmod-fabric-1.16-0.0.6
-
+<table>
+  <tr>
+    <td>The Warp Mod</td>
+    <td>
+      /warp set <name>  -- sets warp<br>
+      /warp list --  lists all warps created in a simple form<br>
+      /warp map -- lists all warps created in a verbose form<br>
+      /warp invite <player> <warp name> -- invites a player to use your warp<br>
+      /warp me <player> -- teleports you to a player<br>
+      /warp <player> me -- teleports a player to you<br>
+      /warp back -- when you teleport using warp a "warp back" is automatically created.<br>
+      /warp random <max-distance(optional)> -- warps a random distance away, if a max distance is set it wont go beyond that.<br>
+      /warp remove <name> -- removes <name> warp<br><br>      
+      /warp-config add <config-setting> <player>  --  Adds a Permission to a Player<br>
+      /warp-config set <config-setting> <true/false>  --  Sets a boolean (true/false) value.<br>
+      /warp-config get <config-setting>  -- Gets the Current Status of the Setting<br>
+    </td>
+  </tr>
+  <tr>
+    <td>Roughly Enough Items Fabric (REI)</td>
+    <td>Clean and Customizable. An easy way to browse recipes.</td>
+  </tr>
+  <tr>
+    <td>VoxelMap</td>
+    <td>VoxelMap is a minimap and worldmap mod that makes a great effort to be accurate to the colors you see in the world (and your resource pack). Display your surroundings, or view the entire (explored) world.<br> It has useful functionality like per-dimension waypoints, mob icons, teleport to waypoint (if the player has permission), and nether mapping. Optional chunk grid and biome overlay (with biome labels in full screen mode)</td>
+  </tr>
+  <tr>
+    <td>Inventory Profiles</td>
+    <td>Inventory Profiles is a client side mod that helps you organize and sort your inventory or chests. Multiplayer is supported and no any mods is required for the server.</td>
+  </tr>
+  <tr>
+    <td>modmenu-1.16.22</td>
+    <td>
+      Adds a screen for viewing a list of installed mods.
+      <ul>
+        <li>The menu is searchable and sortable, libraries can be hidden.</li>
+        <li>Client-side and API mods are marked with a special badge in the list.</li>
+        <li>When clicking a mod in the list, its homepage, issues link and description are displayed.</li>
+        <li>The mod details page also lets the user configure the mod, if available (can be disabled for modpacks via config).</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>OptiFabric</td>
+    <td>OptiFabric a mod that can be used to run OptiFine on the Fabric Mod Loader. It does this by taking the official OptiFine mod and making it compatible with the Fabric Mod Loader at runtime.</td>
+  </tr>
+  <tr>
+    <td>OptiFine</td>
+    <td>OptiFine is a Minecraft optimization mod. It allows Minecraft to run faster and look better with full support for HD textures and many configuration options.</td>
+  </tr>
+</table>
